@@ -12,7 +12,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [`eu-vat-parser`](https://github.com/Joyprakash-ai/vat-invoice-validator) | Extract VAT IDs, totals, dates from EU invoices (PDF/image) | Python, Tesseract, Regex |
-| [`german-legal-summarizer`]() | Fine-tuned T5 model for summarizing German legal docs | Hugging Face, Transformers |
+| [`german-legal-summarizer`](https://github.com/Joyprakash-ai/german-legal-summarizer) | Fine-tuned T5 model for summarizing German legal docs | Hugging Face, Transformers |
 | [`eu-compliance-chat`]() | GDPR/CE compliance checker for e-commerce products | Streamlit, Mistral, LangChain |
 
 ✅ All tools include **Dockerfile**, **unit tests**, and **EU-focused documentation**.
