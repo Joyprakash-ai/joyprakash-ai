@@ -2,7 +2,7 @@
 
 > Building **AI tools that solve real EU business pain points** — from **VAT invoice parsing** to **GDPR-compliant LLMs**.
 
-🔗 [Live Portfolio (GitHub Pages)](https://joyprakash-ai.github.io)  
+🔗 [Live Portfolio (GitHub Pages)](https://joyprakash-ai.github.io/joyprakash-ai/)  
 📧 [Contact via LinkedIn](https://linkedin.com/in/joyprakash66) *(optional but recommended)*
 
 ---
