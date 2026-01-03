@@ -10,7 +10,7 @@ To eliminate bureaucratic friction for SMEs through targeted automation, allowin
 ### [VAT Invoice Validator](https://github.com/Joyprakash-ai/vat-invoice-validator)
 An AI-powered tool to parse and validate EU VAT invoices, reducing manual data entry from hours to minutes.
 
-### [German Legal Summarizer](https://github.com/{joyprakash-ai}/german-legal-summarizer)
+### [German Legal Summarizer](https://github.com/Joyprakash-ai/german-legal-summarizer)
 A fine-tuned LLM that distills complex German contracts into simple executive summaries.
 
 ### [SME Compliance Bot](https://github.com/{joyprakash-ai}/sme-compliance-bot)
